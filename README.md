@@ -1,6 +1,6 @@
 # 蟑螂跑酷遊戲
 
-[👉 開始遊戲（點我打開 cockroach_game.html）](./cockroach_game.html)
+[👉 開始遊戲（點我打開 cockroach_game.html）](https://peggy110.github.io/game3/cockroach_game.html)
 
 ## 遊戲玩法
 
